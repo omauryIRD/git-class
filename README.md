@@ -1,3 +1,3 @@
 read test
-x=local2
+x=local
 y=local
